@@ -1,7 +1,1 @@
-$dig WWW.dateo.cl +nostats +nocomments +nocmd
-;WWW.dateo.cl.   IN  A
-WWW.dateo.cl.           26728 IN CNAME  mvar1.github.io.
-MYUSERNAME.github.io.   1527    IN  A   185.199.108.153
-MYUSERNAME.github.io.   1527    IN  A   185.199.111.153
-MYUSERNAME.github.io.   1527    IN  A   185.199.110.153
-MYUSERNAME.github.io.   1527    IN  A   185.199.109.153
+dateo.cl
